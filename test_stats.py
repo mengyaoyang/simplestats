@@ -65,3 +65,5 @@ def test_std7():
     assert_equal(obs, exp)
 
 # FIXME Put Variance tests here
+
+Here are some changes
